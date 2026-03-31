@@ -407,7 +407,7 @@ def page_predict(
         width="stretch",
     )
 
-    st.write("Subject (zero-shot)")
+    st.write("Subject")
     st.dataframe(
         subject_details.assign(score=lambda d: d["score"].round(4)),
         width="stretch",
