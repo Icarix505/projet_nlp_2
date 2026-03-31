@@ -1,0 +1,2 @@
+task,model,accuracy,weighted_f1,macro_f1
+sentiment,sgd_log,0.8018672199170125,0.7444620073822353,0.5827836279599169

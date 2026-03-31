@@ -1,0 +1,45 @@
+{
+  "rows_total": 34434,
+  "rows_train": 24104,
+  "rows_test": 10330,
+  "n_unique_insurers": 56,
+  "n_unique_products": 13,
+  "n_human_corrected_rows": 435,
+  "missing_note_total": 10330,
+  "train_note_distribution": {
+    "1.0": 7271,
+    "2.0": 3716,
+    "3.0": 3382,
+    "4.0": 4885,
+    "5.0": 4850
+  },
+  "sentiment_distribution": {
+    "negative": 10987,
+    "positive": 9735,
+    "neutral": 3382
+  },
+  "top_products": {
+    "auto": 14076,
+    "sante": 3525,
+    "moto": 2105,
+    "habitation": 1956,
+    "prevoyance": 791,
+    "credit": 653,
+    "vie": 578,
+    "animaux": 374,
+    "multirisque-professionnelle": 20,
+    "garantie-decennale": 12
+  },
+  "top_insurers": {
+    "Direct Assurance": 5896,
+    "L'olivier Assurance": 4288,
+    "APRIL Moto": 1023,
+    "GMF": 997,
+    "Néoliane Santé": 861,
+    "MACIF": 829,
+    "AMV": 688,
+    "Santiane": 658,
+    "AXA": 629,
+    "MAAF": 612
+  }
+}

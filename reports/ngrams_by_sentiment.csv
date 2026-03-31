@@ -1,0 +1,121 @@
+ngram,count,sentiment,kind
+assurance,6918,negative,unigram
+mois,3935,negative,unigram
+contrat,3440,negative,unigram
+faire,2801,negative,unigram
+sinistre,2617,negative,unigram
+service,2600,negative,unigram
+ans,2465,negative,unigram
+client,2040,negative,unigram
+dossier,1952,negative,unigram
+alors,1941,negative,unigram
+véhicule,1899,negative,unigram
+demande,1867,negative,unigram
+jamais,1791,negative,unigram
+mutuelle,1691,negative,unigram
+téléphone,1597,negative,unigram
+fois,1562,negative,unigram
+suite,1561,negative,unigram
+réponse,1523,negative,unigram
+voiture,1469,negative,unigram
+dit,1458,negative,unigram
+service client,907,negative,bigram
+prise charge,555,negative,bigram
+direct assurance,545,negative,bigram
+assurance vie,262,negative,bigram
+assurance auto,236,negative,bigram
+accident responsable,232,negative,bigram
+résilier contrat,212,negative,bigram
+assurance habitation,205,negative,bigram
+pris charge,202,negative,bigram
+bris glace,202,negative,bigram
+10 ans,201,negative,bigram
+carte verte,198,negative,bigram
+impossible joindre,197,negative,bigram
+sinistre responsable,192,negative,bigram
+20 ans,192,negative,bigram
+contrat assurance,191,negative,bigram
+déconseille fortement,189,negative,bigram
+15 jours,172,negative,bigram
+dégât eaux,172,negative,bigram
+30 ans,161,negative,bigram
+assurance,1457,neutral,unigram
+prix,979,neutral,unigram
+service,842,neutral,unigram
+contrat,636,neutral,unigram
+satisfait,617,neutral,unigram
+faire,490,neutral,unigram
+mois,421,neutral,unigram
+client,416,neutral,unigram
+ans,411,neutral,unigram
+véhicule,402,neutral,unigram
+sinistre,392,neutral,unigram
+rapide,302,neutral,unigram
+suite,293,neutral,unigram
+téléphone,283,neutral,unigram
+voir,277,neutral,unigram
+voiture,266,neutral,unigram
+devis,261,neutral,unigram
+demande,259,neutral,unigram
+simple,249,neutral,unigram
+satisfaite,247,neutral,unigram
+satisfait service,201,neutral,bigram
+service client,176,neutral,bigram
+direct assurance,166,neutral,bigram
+prise charge,110,neutral,bigram
+satisfaite service,69,neutral,bigram
+service prix,63,neutral,bigram
+satisfait prix,62,neutral,bigram
+simple pratique,61,neutral,bigram
+assurance auto,55,neutral,bigram
+carte verte,51,neutral,bigram
+qualité prix,50,neutral,bigram
+simple rapide,48,neutral,bigram
+bris glace,46,neutral,bigram
+contrat assurance,46,neutral,bigram
+olivier assurance,46,neutral,bigram
+cas sinistre,46,neutral,bigram
+pris charge,44,neutral,bigram
+prix correct,43,neutral,bigram
+20 ans,42,neutral,bigram
+prix conviennent,42,neutral,bigram
+prix,4074,positive,unigram
+assurance,4011,positive,unigram
+satisfait,3251,positive,unigram
+service,3204,positive,unigram
+rapide,2016,positive,unigram
+recommande,1502,positive,unigram
+satisfaite,1349,positive,unigram
+simple,1343,positive,unigram
+bon,1126,positive,unigram
+contrat,1057,positive,unigram
+bonne,967,positive,unigram
+client,946,positive,unigram
+écoute,933,positive,unigram
+site,896,positive,unigram
+efficace,856,positive,unigram
+tarifs,812,positive,unigram
+qualité,777,positive,unigram
+services,761,positive,unigram
+téléphone,747,positive,unigram
+direct,735,positive,unigram
+satisfait service,1026,positive,bigram
+direct assurance,649,positive,bigram
+service client,470,positive,bigram
+qualité prix,408,positive,bigram
+satisfaite service,398,positive,bigram
+service prix,373,positive,bigram
+olivier assurance,371,positive,bigram
+rapide efficace,359,positive,bigram
+prise charge,353,positive,bigram
+rapport qualité,342,positive,bigram
+satisfait prix,340,positive,bigram
+simple rapide,331,positive,bigram
+simple pratique,268,positive,bigram
+recommande vivement,260,positive,bigram
+prix conviennent,235,positive,bigram
+bon rapport,198,positive,bigram
+service rapide,190,positive,bigram
+satisfait services,187,positive,bigram
+accueil téléphonique,184,positive,bigram
+prix correct,173,positive,bigram
